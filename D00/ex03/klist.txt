@@ -1,0 +1,7 @@
+Credentials cache: API:E2286E47-F081-4A41-BB54-903F481F1875
+        Principal: amarcel@42.FR
+
+  Issued                Expires               Principal
+Feb  7 09:15:37 2018  Feb 14 09:15:37 2018  krbtgt/42.FR@42.FR
+Feb  7 10:00:45 2018  Feb 14 09:15:37 2018  host/vgs-fn1.42.fr@42.FR
+Feb  7 10:05:58 2018  Feb 14 09:15:37 2018  ldap/ldap-proxy.42.fr@42.FR
